@@ -5,7 +5,9 @@ A python package to extract full western 'people' names from a string
 Requires NLTK and various word sets. These are downloaded automatically from the internet when the function is run to fetch the full sets or updated sets.
 
 ## Installing
-Package is part of the Python Package Index:
+Compatable with Python 3+ only
+
+The package will soon be available in the Python Package Index:
 ```
 pip install pypeoplenames
 ```
