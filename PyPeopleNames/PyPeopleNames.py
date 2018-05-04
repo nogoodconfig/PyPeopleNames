@@ -44,7 +44,3 @@ def countNames(text): # now 20x faster! BUGS: Locations not returning properly
                 name = ''
         person = []
     return names
-
-print('Begun scanning...')
-text = open('sampletext.txt','r').read()
-print(countNames(text))
